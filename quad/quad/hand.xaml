@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="quad.hand"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:quad"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="835">
+
+    <Grid x:Name="grid1" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Loaded="grid1_Loaded">
+        <TextBlock HorizontalAlignment="Left" Margin="51,54,0,0" TextWrapping="Wrap" Text="Score :" VerticalAlignment="Top" Height="73" Width="166" FontSize="48" FontFamily="Comic Sans MS"/>
+        <TextBlock x:Name="scOut" HorizontalAlignment="Left" Margin="255,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="73" Width="111" FontSize="48" FontFamily="Comic Sans MS"/>
+        <TextBlock HorizontalAlignment="Left" Margin="51,651,0,0" TextWrapping="Wrap" Text="Time :" VerticalAlignment="Top" Height="64" Width="213" FontSize="48" FontFamily="Comic Sans MS"/>
+        <TextBlock x:Name="timeLeft" HorizontalAlignment="Left" Margin="186,651,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="64" Width="102" FontSize="48" FontFamily="Comic Sans MS"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="835" Margin="696,0,-254,0" Stroke="Black" VerticalAlignment="Top" Width="924"/>
+        <Rectangle x:Name="obj" Fill="#FFCEEC10" HorizontalAlignment="Left" Height="835" Margin="665,-10,0,0" Stroke="Black" VerticalAlignment="Top" Width="55" PointerEntered="obj_PointerEntered"/>
+
+    </Grid>
+</Page>

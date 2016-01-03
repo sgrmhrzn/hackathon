@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="quad.fastrack"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:quad"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid>
+            <Grid.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/wall.jpg"/>
+            </Grid.Background>
+            <Image HorizontalAlignment="Left" Height="140" Margin="627,373,0,0" VerticalAlignment="Top" Width="140" Source="Assets/Play.png" Tapped="Image_Tapped"/>
+            <TextBlock x:Name="txtHead" HorizontalAlignment="Left" IsColorFontEnabled="False" Margin="259,75,0,0" Text="Fast Track" VerticalAlignment="Top" Height="167" Width="915" FontSize="148" FontFamily="Comic Sans MS" FontWeight="Bold" FontStyle="Italic"/>
+            <Image HorizontalAlignment="Left" Height="140" Margin="952,373,0,0" VerticalAlignment="Top" Width="144" Source="Assets/exit1.png" Tapped="Image_Tapped_1"/>
+            <Image x:Name="btnHelp" HorizontalAlignment="Left" Height="213" Margin="277,333,0,0" VerticalAlignment="Top" Width="204" Source="Assets/help.png" Tapped="btnHelp_Tapped"/>
+            <Image x:Name="btnInfo" HorizontalAlignment="Left" Height="100" Margin="10,658,0,0" VerticalAlignment="Top" Width="100" Tapped="btnInfo_Tapped" Source="Assets/info.png"/>
+
+        </Grid>
+
+    </Grid>
+</Page>

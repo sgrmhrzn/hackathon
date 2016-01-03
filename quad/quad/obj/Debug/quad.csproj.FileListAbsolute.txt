@@ -1,0 +1,202 @@
+E:\bim 6\app_dev\quad\quad\bin\Debug\App.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\MainPage.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\quad.exe
+E:\bim 6\app_dev\quad\quad\bin\Debug\quad.pdb
+E:\bim 6\app_dev\quad\quad\bin\Debug\resources.pri
+E:\bim 6\app_dev\quad\quad\bin\Debug\AppxManifest.xml
+E:\bim 6\app_dev\quad\quad\bin\Debug\quad.build.appxrecipe
+E:\bim 6\app_dev\quad\quad\obj\Debug\App.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\App.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\MainPage.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\MainPage.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\XamlTypeInfo.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\App.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\App.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\XamlSaveStateFile.xml
+E:\bim 6\app_dev\quad\quad\obj\Debug\MainPage.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\MainPage.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\quad.exe
+E:\bim 6\app_dev\quad\quad\obj\Debug\quad.pdb
+E:\bim 6\app_dev\quad\quad\obj\Debug\priconfig.xml
+E:\bim 6\app_dev\quad\quad\obj\Debug\priconfig.xml.intermediate
+E:\bim 6\app_dev\quad\quad\obj\Debug\layout.resfiles
+E:\bim 6\app_dev\quad\quad\obj\Debug\layout.resfiles.intermediate
+E:\bim 6\app_dev\quad\quad\obj\Debug\resources.resfiles
+E:\bim 6\app_dev\quad\quad\obj\Debug\resources.resfiles.intermediate
+E:\bim 6\app_dev\quad\quad\obj\Debug\pri.resfiles
+E:\bim 6\app_dev\quad\quad\obj\Debug\pri.resfiles.intermediate
+E:\bim 6\app_dev\quad\quad\obj\Debug\qualifiers.txt
+E:\bim 6\app_dev\quad\quad\obj\Debug\qualifiers.txt.intermediate
+E:\bim 6\app_dev\quad\quad\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\bim 6\app_dev\quad\quad\obj\Debug\ProjectArchitectures.txt
+E:\bim 6\app_dev\quad\quad\bin\Debug\listpage.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\listpage.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\listpage.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\listpage.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\listpage.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\fastrack.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\fastrack.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\hand.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\hand.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\fastrack.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\hand.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\fastrack.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\hand.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\fastrack.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\hand.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\scorepage.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\scorepage.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\scorepage.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\scorepage.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\scorepage.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\Zombiemainpage.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiemainpage.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiemainpage.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiemainpage.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiemainpage.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\Zombiebackground.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiebackground.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiebackground.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiebackground.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiebackground.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiescorepage.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiescorepage.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiescorepage.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\Zombiescorepage.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\Zombiescorepage.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\paper.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\psr.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\paper.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\paper.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\psr.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\psr.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\paper.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\psr.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\paper.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\psr.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\maze.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\mazerunner.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\maze.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\maze.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\mazerunner.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\mazerunner.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\maze.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\mazerunner.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\maze.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\mazerunner.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\smash.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\smash.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\smashgamepage.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\smashgamepage.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\smashscorepage.g.i.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\smashscorepage.g.cs
+E:\bim 6\app_dev\quad\quad\obj\Debug\smash.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\smashgamepage.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\smashscorepage.xaml
+E:\bim 6\app_dev\quad\quad\obj\Debug\smash.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\smashgamepage.xbf
+E:\bim 6\app_dev\quad\quad\obj\Debug\smashscorepage.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\smash.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\smashgamepage.xbf
+E:\bim 6\app_dev\quad\quad\bin\Debug\smashscorepage.xbf
+C:\quad\quad\bin\Debug\App.xbf
+C:\quad\quad\bin\Debug\fastrack.xbf
+C:\quad\quad\bin\Debug\hand.xbf
+C:\quad\quad\bin\Debug\listpage.xbf
+C:\quad\quad\bin\Debug\MainPage.xbf
+C:\quad\quad\bin\Debug\maze.xbf
+C:\quad\quad\bin\Debug\mazerunner.xbf
+C:\quad\quad\bin\Debug\paper.xbf
+C:\quad\quad\bin\Debug\psr.xbf
+C:\quad\quad\bin\Debug\scorepage.xbf
+C:\quad\quad\bin\Debug\smash.xbf
+C:\quad\quad\bin\Debug\smashgamepage.xbf
+C:\quad\quad\bin\Debug\smashscorepage.xbf
+C:\quad\quad\bin\Debug\Zombiebackground.xbf
+C:\quad\quad\bin\Debug\Zombiemainpage.xbf
+C:\quad\quad\bin\Debug\Zombiescorepage.xbf
+C:\quad\quad\bin\Debug\quad.exe
+C:\quad\quad\bin\Debug\quad.pdb
+C:\quad\quad\bin\Debug\resources.pri
+C:\quad\quad\bin\Debug\AppxManifest.xml
+C:\quad\quad\bin\Debug\quad.build.appxrecipe
+C:\quad\quad\obj\Debug\App.g.i.cs
+C:\quad\quad\obj\Debug\App.g.cs
+C:\quad\quad\obj\Debug\fastrack.g.i.cs
+C:\quad\quad\obj\Debug\fastrack.g.cs
+C:\quad\quad\obj\Debug\hand.g.i.cs
+C:\quad\quad\obj\Debug\hand.g.cs
+C:\quad\quad\obj\Debug\listpage.g.i.cs
+C:\quad\quad\obj\Debug\listpage.g.cs
+C:\quad\quad\obj\Debug\MainPage.g.i.cs
+C:\quad\quad\obj\Debug\MainPage.g.cs
+C:\quad\quad\obj\Debug\maze.g.i.cs
+C:\quad\quad\obj\Debug\maze.g.cs
+C:\quad\quad\obj\Debug\mazerunner.g.i.cs
+C:\quad\quad\obj\Debug\mazerunner.g.cs
+C:\quad\quad\obj\Debug\paper.g.i.cs
+C:\quad\quad\obj\Debug\paper.g.cs
+C:\quad\quad\obj\Debug\psr.g.i.cs
+C:\quad\quad\obj\Debug\psr.g.cs
+C:\quad\quad\obj\Debug\scorepage.g.i.cs
+C:\quad\quad\obj\Debug\scorepage.g.cs
+C:\quad\quad\obj\Debug\smash.g.i.cs
+C:\quad\quad\obj\Debug\smash.g.cs
+C:\quad\quad\obj\Debug\smashgamepage.g.i.cs
+C:\quad\quad\obj\Debug\smashgamepage.g.cs
+C:\quad\quad\obj\Debug\smashscorepage.g.i.cs
+C:\quad\quad\obj\Debug\smashscorepage.g.cs
+C:\quad\quad\obj\Debug\Zombiebackground.g.i.cs
+C:\quad\quad\obj\Debug\Zombiebackground.g.cs
+C:\quad\quad\obj\Debug\Zombiemainpage.g.i.cs
+C:\quad\quad\obj\Debug\Zombiemainpage.g.cs
+C:\quad\quad\obj\Debug\Zombiescorepage.g.i.cs
+C:\quad\quad\obj\Debug\Zombiescorepage.g.cs
+C:\quad\quad\obj\Debug\XamlTypeInfo.g.cs
+C:\quad\quad\obj\Debug\App.xaml
+C:\quad\quad\obj\Debug\fastrack.xaml
+C:\quad\quad\obj\Debug\hand.xaml
+C:\quad\quad\obj\Debug\listpage.xaml
+C:\quad\quad\obj\Debug\MainPage.xaml
+C:\quad\quad\obj\Debug\maze.xaml
+C:\quad\quad\obj\Debug\mazerunner.xaml
+C:\quad\quad\obj\Debug\paper.xaml
+C:\quad\quad\obj\Debug\psr.xaml
+C:\quad\quad\obj\Debug\scorepage.xaml
+C:\quad\quad\obj\Debug\smash.xaml
+C:\quad\quad\obj\Debug\smashgamepage.xaml
+C:\quad\quad\obj\Debug\smashscorepage.xaml
+C:\quad\quad\obj\Debug\Zombiebackground.xaml
+C:\quad\quad\obj\Debug\Zombiemainpage.xaml
+C:\quad\quad\obj\Debug\Zombiescorepage.xaml
+C:\quad\quad\obj\Debug\App.xbf
+C:\quad\quad\obj\Debug\fastrack.xbf
+C:\quad\quad\obj\Debug\hand.xbf
+C:\quad\quad\obj\Debug\listpage.xbf
+C:\quad\quad\obj\Debug\MainPage.xbf
+C:\quad\quad\obj\Debug\maze.xbf
+C:\quad\quad\obj\Debug\mazerunner.xbf
+C:\quad\quad\obj\Debug\paper.xbf
+C:\quad\quad\obj\Debug\psr.xbf
+C:\quad\quad\obj\Debug\scorepage.xbf
+C:\quad\quad\obj\Debug\smash.xbf
+C:\quad\quad\obj\Debug\smashgamepage.xbf
+C:\quad\quad\obj\Debug\smashscorepage.xbf
+C:\quad\quad\obj\Debug\Zombiebackground.xbf
+C:\quad\quad\obj\Debug\Zombiemainpage.xbf
+C:\quad\quad\obj\Debug\Zombiescorepage.xbf
+C:\quad\quad\obj\Debug\XamlSaveStateFile.xml
+C:\quad\quad\obj\Debug\quad.exe
+C:\quad\quad\obj\Debug\quad.pdb
+C:\quad\quad\obj\Debug\priconfig.xml
+C:\quad\quad\obj\Debug\priconfig.xml.intermediate
+C:\quad\quad\obj\Debug\layout.resfiles
+C:\quad\quad\obj\Debug\layout.resfiles.intermediate
+C:\quad\quad\obj\Debug\resources.resfiles
+C:\quad\quad\obj\Debug\resources.resfiles.intermediate
+C:\quad\quad\obj\Debug\pri.resfiles
+C:\quad\quad\obj\Debug\pri.resfiles.intermediate
+C:\quad\quad\obj\Debug\qualifiers.txt
+C:\quad\quad\obj\Debug\qualifiers.txt.intermediate
+C:\quad\quad\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\quad\quad\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="quad.scorepage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:quad"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:Name="fsc" HorizontalAlignment="Left" Margin="458,332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="103" Width="184" FontSize="72" FontFamily="Comic Sans MS"/>
+        <TextBlock HorizontalAlignment="Left" TextAlignment="Center" Margin="195,202,0,0" TextWrapping="Wrap" Text="Your score is" VerticalAlignment="Top" Height="130" Width="825" FontSize="72" FontFamily="Comic Sans MS"/>
+        <Image x:Name="btnPlay" HorizontalAlignment="Left" Height="115" VerticalAlignment="Top" Width="115" Margin="578,492,0,0" Source="Assets/Play.png" Tapped="btnPlay_Tapped"/>
+        <Image x:Name="btnExit" HorizontalAlignment="Left" Height="115" Margin="849,489,0,0" VerticalAlignment="Top" Width="115" Source="Assets/exit1.png" Tapped="btnExit_Tapped"/>
+        <Image x:Name="btnHome" HorizontalAlignment="Left" Height="145" Margin="306,477,0,0" VerticalAlignment="Top" Width="151" Source="Assets/home.png" Tapped="btnHome_Tapped"/>
+    </Grid>
+</Page>

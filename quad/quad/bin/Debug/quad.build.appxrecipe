@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ACER</Machine>
+    <WindowsUser>user</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>51d78eb0-5e07-43b6-9981-865aa2582e58</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\quad\quad\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\quad.exe">
+      <PackagePath>quad.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\background.png">
+      <PackagePath>Assets\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\cPaper.png">
+      <PackagePath>Assets\cPaper.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\crock.png">
+      <PackagePath>Assets\crock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\exit.png">
+      <PackagePath>Assets\exit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\exit1.png">
+      <PackagePath>Assets\exit1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\gamejunction.png">
+      <PackagePath>Assets\gamejunction.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\help.png">
+      <PackagePath>Assets\help.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\home.png">
+      <PackagePath>Assets\home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\house.png">
+      <PackagePath>Assets\house.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\keyboardn.png">
+      <PackagePath>Assets\keyboardn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Paper.png">
+      <PackagePath>Assets\Paper.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Play1.png">
+      <PackagePath>Assets\Play1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Play.png">
+      <PackagePath>Assets\Play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\pscissors.png">
+      <PackagePath>Assets\pscissors.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\rock.png">
+      <PackagePath>Assets\rock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\rockpaperbackground.png">
+      <PackagePath>Assets\rockpaperbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\scissors.png">
+      <PackagePath>Assets\scissors.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\smash1.png">
+      <PackagePath>Assets\smash1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\smash2.png">
+      <PackagePath>Assets\smash2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Untitled-1_05.png">
+      <PackagePath>Assets\Untitled-1_05.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\zombie.png">
+      <PackagePath>Assets\zombie.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Black background.jpg">
+      <PackagePath>Assets\Black background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\ek-ka.jpg">
+      <PackagePath>Assets\ek-ka.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\end.jpg">
+      <PackagePath>Assets\end.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\exit.jpg">
+      <PackagePath>Assets\exit.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\fastrack.jpg">
+      <PackagePath>Assets\fastrack.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\keyboard.jpg">
+      <PackagePath>Assets\keyboard.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\keyboard_smash.jpg">
+      <PackagePath>Assets\keyboard_smash.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Mainbackground.jpg">
+      <PackagePath>Assets\Mainbackground.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\mazerunner.jpg">
+      <PackagePath>Assets\mazerunner.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Mazerunner_maze-skyview.jpg">
+      <PackagePath>Assets\Mazerunner_maze-skyview.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\maze_runner.jpg">
+      <PackagePath>Assets\maze_runner.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\paperback.jpg">
+      <PackagePath>Assets\paperback.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\paperback2.jpg">
+      <PackagePath>Assets\paperback2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\paperbackground.jpg">
+      <PackagePath>Assets\paperbackground.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\playagain.jpg">
+      <PackagePath>Assets\playagain.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Rock_pap.jpg">
+      <PackagePath>Assets\Rock_pap.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\smashing.jpg">
+      <PackagePath>Assets\smashing.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\smashingkeyboard.jpg">
+      <PackagePath>Assets\smashingkeyboard.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\wall.jpg">
+      <PackagePath>Assets\wall.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\whitebc.jpg">
+      <PackagePath>Assets\whitebc.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\zombie.jpg">
+      <PackagePath>Assets\zombie.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\ccc.wav">
+      <PackagePath>Assets\ccc.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Glass Breaking-SoundBible.com-1765179538.wav">
+      <PackagePath>Assets\Glass Breaking-SoundBible.com-1765179538.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Ta Da-SoundBible.com-1884170640.wav">
+      <PackagePath>Assets\Ta Da-SoundBible.com-1884170640.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\fastrack.xbf">
+      <PackagePath>fastrack.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\hand.xbf">
+      <PackagePath>hand.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\listpage.xbf">
+      <PackagePath>listpage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\maze.xbf">
+      <PackagePath>maze.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\mazerunner.xbf">
+      <PackagePath>mazerunner.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\paper.xbf">
+      <PackagePath>paper.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\psr.xbf">
+      <PackagePath>psr.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\scorepage.xbf">
+      <PackagePath>scorepage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\smash.xbf">
+      <PackagePath>smash.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\smashgamepage.xbf">
+      <PackagePath>smashgamepage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\smashscorepage.xbf">
+      <PackagePath>smashscorepage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\Zombiebackground.xbf">
+      <PackagePath>Zombiebackground.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\Zombiemainpage.xbf">
+      <PackagePath>Zombiemainpage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\Zombiescorepage.xbf">
+      <PackagePath>Zombiescorepage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ACER</Machine>
+    <WindowsUser>user</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>51d78eb0-5e07-43b6-9981-865aa2582e58</PackageIdentityName>
+    <RegisteredManifestChecksum>4BDB665573F4B41F0E8DCDBCF671038D7A3AB7C516B4F392A8F46C93A2222EC3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>51d78eb0-5e07-43b6-9981-865aa2582e58_1.0.0.0_neutral__e3nc7qh8max7a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>51d78eb0-5e07-43b6-9981-865aa2582e58_e3nc7qh8max7a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>51d78eb0-5e07-43b6-9981-865aa2582e58</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Subash</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\quad\quad\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-03T02:07:35.995</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\quad.exe">
+      <PackagePath>quad.exe</PackagePath>
+      <Modified>2016-01-03T02:12:06.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\background.png">
+      <PackagePath>Assets\background.png</PackagePath>
+      <Modified>2016-01-02T11:50:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\cPaper.png">
+      <PackagePath>Assets\cPaper.png</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\crock.png">
+      <PackagePath>Assets\crock.png</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\exit.png">
+      <PackagePath>Assets\exit.png</PackagePath>
+      <Modified>2016-01-02T13:47:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\exit1.png">
+      <PackagePath>Assets\exit1.png</PackagePath>
+      <Modified>2016-01-02T11:07:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\gamejunction.png">
+      <PackagePath>Assets\gamejunction.png</PackagePath>
+      <Modified>2016-01-02T11:07:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\help.png">
+      <PackagePath>Assets\help.png</PackagePath>
+      <Modified>2016-01-02T11:07:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\home.png">
+      <PackagePath>Assets\home.png</PackagePath>
+      <Modified>2016-01-02T11:07:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\house.png">
+      <PackagePath>Assets\house.png</PackagePath>
+      <Modified>2016-01-03T02:05:31.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\keyboardn.png">
+      <PackagePath>Assets\keyboardn.png</PackagePath>
+      <Modified>2016-01-02T22:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Paper.png">
+      <PackagePath>Assets\Paper.png</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Play1.png">
+      <PackagePath>Assets\Play1.png</PackagePath>
+      <Modified>2016-01-02T13:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Play.png">
+      <PackagePath>Assets\Play.png</PackagePath>
+      <Modified>2016-01-02T14:00:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\pscissors.png">
+      <PackagePath>Assets\pscissors.png</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\rock.png">
+      <PackagePath>Assets\rock.png</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\rockpaperbackground.png">
+      <PackagePath>Assets\rockpaperbackground.png</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\scissors.png">
+      <PackagePath>Assets\scissors.png</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\smash1.png">
+      <PackagePath>Assets\smash1.png</PackagePath>
+      <Modified>2016-01-02T19:47:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\smash2.png">
+      <PackagePath>Assets\smash2.png</PackagePath>
+      <Modified>2016-01-02T19:47:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Untitled-1_05.png">
+      <PackagePath>Assets\Untitled-1_05.png</PackagePath>
+      <Modified>2016-01-02T14:47:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\zombie.png">
+      <PackagePath>Assets\zombie.png</PackagePath>
+      <Modified>2016-01-02T12:33:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Black background.jpg">
+      <PackagePath>Assets\Black background.jpg</PackagePath>
+      <Modified>2016-01-02T21:30:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\ek-ka.jpg">
+      <PackagePath>Assets\ek-ka.jpg</PackagePath>
+      <Modified>2016-01-02T14:47:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\end.jpg">
+      <PackagePath>Assets\end.jpg</PackagePath>
+      <Modified>2016-01-02T11:50:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\exit.jpg">
+      <PackagePath>Assets\exit.jpg</PackagePath>
+      <Modified>2016-01-02T21:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\fastrack.jpg">
+      <PackagePath>Assets\fastrack.jpg</PackagePath>
+      <Modified>2016-01-02T14:47:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\keyboard.jpg">
+      <PackagePath>Assets\keyboard.jpg</PackagePath>
+      <Modified>2016-01-02T19:47:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\keyboard_smash.jpg">
+      <PackagePath>Assets\keyboard_smash.jpg</PackagePath>
+      <Modified>2016-01-02T14:47:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Mainbackground.jpg">
+      <PackagePath>Assets\Mainbackground.jpg</PackagePath>
+      <Modified>2016-01-02T11:50:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\mazerunner.jpg">
+      <PackagePath>Assets\mazerunner.jpg</PackagePath>
+      <Modified>2016-01-02T23:22:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Mazerunner_maze-skyview.jpg">
+      <PackagePath>Assets\Mazerunner_maze-skyview.jpg</PackagePath>
+      <Modified>2016-01-03T01:24:43.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\maze_runner.jpg">
+      <PackagePath>Assets\maze_runner.jpg</PackagePath>
+      <Modified>2016-01-02T14:47:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\paperback.jpg">
+      <PackagePath>Assets\paperback.jpg</PackagePath>
+      <Modified>2016-01-02T17:47:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\paperback2.jpg">
+      <PackagePath>Assets\paperback2.jpg</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\paperbackground.jpg">
+      <PackagePath>Assets\paperbackground.jpg</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\playagain.jpg">
+      <PackagePath>Assets\playagain.jpg</PackagePath>
+      <Modified>2016-01-02T21:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Rock_pap.jpg">
+      <PackagePath>Assets\Rock_pap.jpg</PackagePath>
+      <Modified>2016-01-02T14:47:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\smashing.jpg">
+      <PackagePath>Assets\smashing.jpg</PackagePath>
+      <Modified>2016-01-02T20:12:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\smashingkeyboard.jpg">
+      <PackagePath>Assets\smashingkeyboard.jpg</PackagePath>
+      <Modified>2016-01-02T21:35:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\wall.jpg">
+      <PackagePath>Assets\wall.jpg</PackagePath>
+      <Modified>2016-01-02T14:24:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\whitebc.jpg">
+      <PackagePath>Assets\whitebc.jpg</PackagePath>
+      <Modified>2016-01-02T13:37:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\zombie.jpg">
+      <PackagePath>Assets\zombie.jpg</PackagePath>
+      <Modified>2016-01-02T14:47:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\ccc.wav">
+      <PackagePath>Assets\ccc.wav</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Glass Breaking-SoundBible.com-1765179538.wav">
+      <PackagePath>Assets\Glass Breaking-SoundBible.com-1765179538.wav</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\Assets\Ta Da-SoundBible.com-1884170640.wav">
+      <PackagePath>Assets\Ta Da-SoundBible.com-1884170640.wav</PackagePath>
+      <Modified>2016-01-02T16:14:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-02T11:09:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\fastrack.xbf">
+      <PackagePath>fastrack.xbf</PackagePath>
+      <Modified>2016-01-03T02:07:35.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\hand.xbf">
+      <PackagePath>hand.xbf</PackagePath>
+      <Modified>2016-01-03T02:07:35.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\listpage.xbf">
+      <PackagePath>listpage.xbf</PackagePath>
+      <Modified>2016-01-03T02:07:35.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-03T01:13:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\maze.xbf">
+      <PackagePath>maze.xbf</PackagePath>
+      <Modified>2016-01-03T02:07:35.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\mazerunner.xbf">
+      <PackagePath>mazerunner.xbf</PackagePath>
+      <Modified>2016-01-03T02:07:35.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\paper.xbf">
+      <PackagePath>paper.xbf</PackagePath>
+      <Modified>2016-01-03T02:07:35.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\psr.xbf">
+      <PackagePath>psr.xbf</PackagePath>
+      <Modified>2016-01-03T02:11:08.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\scorepage.xbf">
+      <PackagePath>scorepage.xbf</PackagePath>
+      <Modified>2016-01-03T02:07:35.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\smash.xbf">
+      <PackagePath>smash.xbf</PackagePath>
+      <Modified>2016-01-03T02:07:35.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\smashgamepage.xbf">
+      <PackagePath>smashgamepage.xbf</PackagePath>
+      <Modified>2016-01-03T01:13:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\smashscorepage.xbf">
+      <PackagePath>smashscorepage.xbf</PackagePath>
+      <Modified>2016-01-03T02:12:05.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\Zombiebackground.xbf">
+      <PackagePath>Zombiebackground.xbf</PackagePath>
+      <Modified>2016-01-03T01:56:21.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\Zombiemainpage.xbf">
+      <PackagePath>Zombiemainpage.xbf</PackagePath>
+      <Modified>2016-01-03T02:07:35.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\Zombiescorepage.xbf">
+      <PackagePath>Zombiescorepage.xbf</PackagePath>
+      <Modified>2016-01-03T02:07:35.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\quad\quad\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-03T02:07:35.729</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
